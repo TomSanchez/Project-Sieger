@@ -3,4 +3,4 @@ Welcome, this is a project made to emulate the popular flash game SIEGER. This p
 
 To play just download the file as a Zip, extract it and run the .Exe file
 
-# Enjoy
+# ¡Enjoy!
