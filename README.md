@@ -1,2 +1,4 @@
 # Project-Sieger
-a project made to emulate the basic mechanics of the flash game "Sieger", it consist of 3 levels.
+Welcome, this is a project made to emulate the popular flash game SIEGER. This project was made using the Angry birds assets for visual clarity
+
+To play just download the file as a Zip, extract it and run the .Exe file
